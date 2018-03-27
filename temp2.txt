@@ -1,1 +1,2 @@
+test content after v1.0
 new file for branch feature1
